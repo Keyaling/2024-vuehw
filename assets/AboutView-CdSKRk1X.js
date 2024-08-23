@@ -1,1 +1,0 @@
-import{_ as t,c as o,a as s,w as a,b as c,r as n,o as r,d as _}from"./index-B6-Qw0pL.js";const i={},d={class:"about"},l=c("h1",null,"This is an about page",-1);function u(f,p){const e=n("RouterLink");return r(),o("div",d,[l,s(e,{to:"/",class:"link"},{default:a(()=>[_("回首頁")]),_:1})])}const m=t(i,[["render",u]]);export{m as default};
